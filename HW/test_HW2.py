@@ -17,9 +17,9 @@ def checkout_negative(cmd, text):
         return False
 
 
-folder_in = "/home/ream/tst"
-folder_out = "/home/ream/out"
-folder_ext = "/home/ream/folder1"
+folder_in = "/home/user/tst"
+folder_out = "/home/user/out"
+folder_ext = "/home/user/folder1"
 
 
 def test_step1():
