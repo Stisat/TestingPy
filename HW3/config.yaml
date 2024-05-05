@@ -1,0 +1,6 @@
+folder_in: /home/ream/tst
+folder_out: /home/ream/out
+folder_ext: /home/ream/folder1
+folder_ext2: /home/ream/folder2
+count: 10
+bs: 1M
