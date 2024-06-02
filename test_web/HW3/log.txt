@@ -1,0 +1,20 @@
+2024-05-23 20:24:29 INFO ====== WebDriver manager ======
+2024-05-23 20:24:30 INFO Get LATEST chromedriver version for google-chrome
+2024-05-23 20:24:30 INFO Get LATEST chromedriver version for google-chrome
+2024-05-23 20:24:30 INFO Driver [C:\Users\reamt\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-23 20:24:31 INFO Test2 Starting
+2024-05-23 20:24:32 INFO Send Test6_P5205 to element //*[@id="login"]/div[1]/label/input
+2024-05-23 20:24:32 INFO Send dbffcd2b88 to element //*[@id="login"]/div[2]/label/input
+2024-05-23 20:24:32 INFO Click login button
+2024-05-23 20:24:34 INFO We find text Hello, Test6_P5205 in Hello field //*[@id="app"]/main/nav/ul/li[3]/a
+2024-05-23 20:24:34 INFO Test3 Starting
+2024-05-23 20:24:34 INFO Click 'New Post' button
+2024-05-23 20:24:36 INFO Enter title name 'test_title_new' in Title field
+2024-05-23 20:24:36 INFO Enter description text 'test_description' in description field
+2024-05-23 20:24:36 INFO Click Save button
+2024-05-23 20:24:39 INFO We find text test_title_new in Post name field h1
+2024-05-23 20:24:39 INFO Test4 Starting
+2024-05-23 20:24:40 INFO Click Contact
+2024-05-23 20:24:40 INFO Enter name 'Test_User_P6' in Your name field
+2024-05-23 20:24:41 INFO Enter email 'sdfsdf@gmail.com' in Your email field
+2024-05-23 20:24:41 INFO Click 'Contact Us' button
